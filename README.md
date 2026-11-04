@@ -8,7 +8,7 @@ I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Lea
 - 🔭 **Interested in:** AI/ML, Python, Data Science, and Full-Stack Development
 - 🛠️ **Building:** Practical projects and productivity tools
 - 📫 **Email:** [maitysayan750@gmail.com](mailto:maitysayan750@gmail.com)
-- 💼 **GitHub:** [@sayanmaity2007](https://github.com/sayanmaity2007)
+- 💼 **GitHub:** [github.com/sayanmaity2007](https://github.com/sayanmaity2007)
 
 ---
 
