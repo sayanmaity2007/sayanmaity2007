@@ -1,76 +1,131 @@
-# Fix GitHub Profile README — Broken Analytics and Remove Unwanted Technologies
+# 👋 Hi, I'm Sayan Maity
 
-Act as a GitHub profile README specialist. Fix my existing GitHub profile README for:
+### 🤖 AI/ML Enthusiast | 💻 B.Tech CSE (AI & ML) Student | 🚀 Aspiring Developer
 
-GitHub username: `sayanmaity2007`
+I'm studying Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at **Brainware University, India**. I enjoy learning new technologies and building practical projects.
 
-Repository: `sayanmaity2007/sayanmaity2007`
+- 🌱 **Currently learning:** Machine Learning and Artificial Intelligence
+- 🔭 **Interested in:** AI/ML, Python, Data Science, and Web Development
+- 🛠️ **Building:** AI applications and productivity tools
+- 📫 **Email:** [maitysayan750@gmail.com](mailto\:maitysayan750@gmail.com)
+- 💻 **GitHub:** [github.com/sayanmaity2007](https://github.com/sayanmaity2007)
 
-## 1. Fix GitHub Analytics
+---
 
-The following sections currently show broken images:
-- GitHub Analytics / GitHub statistics card.
-- Contribution Activity Graph.
-- GitHub Achievements / Profile Trophies.
+## 🌐 Connect With Me
 
-The contribution streak card loads, so preserve it if it continues to work.
+\<p align="left">
+&#x20; \<a href="[https://github.com/sayanmaity2007](https://github.com/sayanmaity2007)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/sayan-maity-/](https://www.linkedin.com/in/sayan-maity-/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
+&#x20; \</a>
+&#x20; \<a href="[https://instagram.com/sayan__2500](https://instagram.com/sayan__2500)">
+&#x20;   \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:maitysayan750\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
+&#x20; \</a>
+\</p>
 
-Inspect the existing README.md and fix the image URLs and Markdown/HTML. Use the correct username and supported parameters.
+---
 
-Preferred sources:
-- GitHub statistics: `github-readme-stats.vercel.app`
-- Contribution graph: `github-readme-activity-graph.vercel.app`
-- Profile trophies: `github-profile-trophy.vercel.app`
-- Contribution streak: `streak-stats.demolab.com`
+## 🧰 Languages, Tools & Technologies
 
-Use these example image URLs:
+### 💻 Programming Languages
 
-GitHub statistics:
-`https://github-readme-stats.vercel.app/api?username=sayanmaity2007&show_icons=true&theme=tokyonight&hide_border=true`
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,c,js,html,css](https://skillicons.dev/icons?i=python,c,js,html,css)" alt="Python, C, JavaScript, HTML and CSS" />
+\</p>
 
-Top programming languages:
-`https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmaity2007&layout=compact&theme=tokyonight&hide_border=true`
+### 🧠 AI, Machine Learning & Data Science
 
-Contribution activity graph:
-`https://github-readme-activity-graph.vercel.app/graph?username=sayanmaity2007&theme=tokyo-night&hide_border=true`
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,sklearn](https://skillicons.dev/icons?i=python,sklearn)" alt="Python and scikit-learn" />
+\</p>
 
-Profile trophies:
-`https://github-profile-trophy.vercel.app/?username=sayanmaity2007&theme=tokyonight&no-frame=true&margin-w=8&row=1`
+### 🌐 Web Development & Databases
 
-Contribution streak:
-`https://streak-stats.demolab.com/?user=sayanmaity2007&theme=tokyonight&hide_border=true`
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,nodejs,flask,mysql,postgres](https://skillicons.dev/icons?i=react,nodejs,flask,mysql,postgres)" alt="React, Node.js, Flask, MySQL and PostgreSQL" />
+\</p>
 
-## 2. Remove Express and MongoDB
+### ⚙️ Developer Tools & Cloud
 
-Remove Express and MongoDB from the Languages, Tools & Technologies section.
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,gcp](https://skillicons.dev/icons?i=git,github,docker,gcp)" alt="Git, GitHub, Docker and Google Cloud" />
+\</p>
 
-Specifically:
-- Remove the Express icon and link.
-- Remove the MongoDB icon and link.
-- Remove any Express or MongoDB badges elsewhere in the technology list if present.
+---
 
-Keep the other technology icons unchanged unless a correction is necessary.
+## 📊 GitHub Analytics
 
-Do not claim that I use any technology unless it is already present in my README or I explicitly confirm it.
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=sayanmaity2007&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=sayanmaity2007\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="180" alt="GitHub statistics" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmaity2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmaity2007\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" height="180" alt="Most used programming languages" />
+\</p>
 
-## 3. Make the README Reliable
+## 🔥 Contribution Streak
 
-- Use the exact GitHub username `sayanmaity2007`.
-- Keep valid Markdown and HTML.
-- Add meaningful alt text to every image.
-- Keep the design centered, clean, professional, and consistent.
-- Avoid unnecessary widgets and duplicated analytics.
-- Preserve my name, university, B.Tech CSE AI/ML details, email, and social links.
-- Keep the README compatible with GitHub's rendering rules.
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com/?user=sayanmaity2007&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=sayanmaity2007\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" />
+\</p>
 
-If a widget cannot load, do not pretend it works. Test the image endpoint when network access is available. If a service is unavailable, replace it with a verified working alternative or remove that widget and keep the rest of the README attractive.
+## 📈 Contribution Activity Graph
 
-## 4. Verify Before Finishing
+\<p align="center">
+&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=sayanmaity2007&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=sayanmaity2007\&theme=tokyo-night\&hide_border=true)" width="100%" alt="GitHub contribution activity graph" />
+\</p>
 
-1. Inspect the existing README.md.
-2. Make only the requested changes.
-3. Test each external image URL if network access is available.
-4. Check the final Markdown and HTML.
-5. Show the changed sections and explain any widgets that could not be verified.
+## 🏆 GitHub Achievements
 
-Do not change my repository settings, delete files, or push changes to GitHub without my approval.
+\<p align="center">
+&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=sayanmaity2007&theme=tokyonight&no-frame=true&margin-w=8&row=1](https://github-profile-trophy.vercel.app/?username=sayanmaity2007\&theme=tokyonight\&no-frame=true\&margin-w=8\&row=1)" width="100%" alt="GitHub profile trophies" />
+\</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Study Assistant
+
+An AI-focused project intended to support smarter study workflows.
+
+🔗 [View AI Study Assistant Repository](https://github.com/sayanmaity2007/AI-Study-Assistant)
+
+### ⚡ Routine Tracker
+
+A gamified productivity application concept combining daily routines, task timers, XP, levels, goals, progress analytics, and an animated 3D headquarters.
+
+🔗 [Explore My Repositories](https://github.com/sayanmaity2007?tab=repositories)
+
+> Add more projects as they become ready. Include their actual features, technologies, screenshots, and live demos when available.
+
+---
+
+## 🎯 My Goals
+
+- 🧠 Strengthen my AI and machine learning skills.
+- 🐍 Write clean and maintainable Python code.
+- 🌐 Build practical web applications.
+- 📊 Explore data science and intelligent systems.
+- 🚀 Turn ideas into useful software projects.
+
+---
+
+## 👁️ Profile Visitors
+
+\<p align="left">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=sayanmaity2007&label=Profile%20Views&color=00C7B7&style=flat-square](https://komarev.com/ghpvc/?username=sayanmaity2007\&label=Profile%20Views\&color=00C7B7\&style=flat-square)" alt="Profile visitor counter" />
+\</p>
+
+---
+
+\<p align="center">
+&#x20; \<b>💻 Learn. Build. Improve. Repeat. 🚀\</b>
+\</p>
+
+\<p align="center">
+&#x20; Thanks for visiting my profile! Explore my repositories and feel free to connect with me.
+\</p>
